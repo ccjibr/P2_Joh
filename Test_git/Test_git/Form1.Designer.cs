@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.cbTest = new System.Windows.Forms.CheckBox();
+            this.tbInmatning = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // cbTest
@@ -41,14 +42,23 @@
             this.cbTest.Text = "cb_test";
             this.cbTest.UseVisualStyleBackColor = true;
             // 
+            // tbInmatning
+            // 
+            this.tbInmatning.Location = new System.Drawing.Point(32, 66);
+            this.tbInmatning.Name = "tbInmatning";
+            this.tbInmatning.Size = new System.Drawing.Size(100, 22);
+            this.tbInmatning.TabIndex = 1;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(282, 253);
+            this.Controls.Add(this.tbInmatning);
             this.Controls.Add(this.cbTest);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -57,5 +67,6 @@
         #endregion
 
         private System.Windows.Forms.CheckBox cbTest;
+        private System.Windows.Forms.TextBox tbInmatning;
     }
 }
