@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="CopsAndRobbers.Enemy">
-    <Position X="1.5" Y="3" Width="1.5" />
+    <Position X="3.75" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ARyAAAAEAAAAAkAAAAACAAAAABAAAIAAAAAAAAgAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Robbe">
-    <Position X="0.5" Y="7.5" Width="1.5" />
+    <Position X="1.5" Y="4.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Allan">
-    <Position X="2.25" Y="7.5" Width="1.5" />
+    <Position X="1.5" Y="6" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
@@ -64,63 +64,63 @@
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.HSItem">
-    <Position X="10" Y="1.5" Width="1.5" />
+    <Position X="17.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAEAAAAAAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAg=</HashCode>
       <FileName>HighScore.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CopsAndRobbers.Menu" Collapsed="true">
-    <Position X="17.5" Y="0.5" Width="1.5" />
+  <Class Name="CopsAndRobbers.Menu">
+    <Position X="15.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AgQAAAAAAAAAAgAAAAAAAAgAgAAAAAAAQAAAAgAAAAA=</HashCode>
       <FileName>Menu.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="CopsAndRobbers.MenuItem" Collapsed="true">
-    <Position X="15.75" Y="1.5" Width="1.5" />
+  <Class Name="CopsAndRobbers.MenuItem">
+    <Position X="17.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAgAAAAAAAAAAEAIAABAAIAAAAAAAAAAAAAAAAAIAA=</HashCode>
       <FileName>Menu.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Player">
-    <Position X="10" Y="6.5" Width="1.5" />
+    <Position X="9.5" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AASAgADEAIAAhkAAAAACAAAAABAAAAAAAQAAAogIAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Bullet">
-    <Position X="12.5" Y="4.5" Width="1.5" />
+    <Position X="6.75" Y="9" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.PowerUp">
-    <Position X="12.25" Y="2.5" Width="1.5" />
+    <Position X="9.5" Y="2" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>PowerUp.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Coins">
-    <Position X="12.5" Y="6.5" Width="1.5" />
+    <Position X="3.75" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>PowerUp.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.Program" Collapsed="true">
-    <Position X="17.5" Y="1.5" Width="1.5" />
+    <Position X="9.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CopsAndRobbers.HighScore">
-    <Position X="15.75" Y="3" Width="1.5" />
+    <Position X="15.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAIgAAAgKgCAAAAIAAASAAAAAAAkAAAAQAAAAAAAEAA=</HashCode>
       <FileName>HighScore.cs</FileName>
